@@ -1,0 +1,32 @@
+h1
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color: aliceblue;
+    text-align: center;
+}
+pre
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-wrap: wrap;
+    text-align: center;
+}
+.introbox
+{
+    background-image: url("introbox.jpg");
+    background-repeat: no-repeat;
+    background-color: rgb(28, 149, 255);
+}
+h2
+{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+button
+{
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+}
